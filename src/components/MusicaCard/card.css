@@ -1,0 +1,28 @@
+/* MusicaCard.css */
+
+.musica-card {
+    border-radius: 10px;
+    box-shadow: 2px 9px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 30px;
+    margin: 20px;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: #ffffff; /* Cor de fundo branca */
+    color: #333333; /* Cor do texto */
+    font-size: 20px;
+  }
+  
+  .musica-card h3 {
+    font-size: 1.5rem; /* Tamanho da fonte do título */
+    margin-bottom: 15px; /* Espaçamento inferior do título */
+  }
+  
+  .musica-card p {
+    font-size: 1.2rem; /* Tamanho da fonte do texto */
+    line-height: 1.6; /* Altura da linha para melhor legibilidade */
+  }
+  

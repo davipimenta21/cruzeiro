@@ -1,0 +1,172 @@
+{
+  "time": "Cruzeiro Esporte Clube",
+  "fundado": "1921-01-02",
+  "estadio": "Mineirão",
+  "jogadores": [
+      {
+          "nome": "Cássio",
+          "posicao": "Goleiro",
+          "idade": 37,
+          "nacionalidade": "Brasileiro",
+          "foto": "https://www.cruzeiro.com.br/media/fotos_jogadores/25/05/2024/C%C3%81SSIO_-_goleiro_site.png"
+      },
+      {
+          "nome": "Anderson",
+          "posicao": "Goleiro",
+          "idade": 26,
+          "nacionalidade": "Brasileiro",
+          "foto": "https://www.cruzeiro.com.br/media/fotos_jogadores/25/05/2024/ANDERSON_-_goleiro_site_II.png"
+      },
+      {
+          "nome": "João Marcelo",
+          "posicao": "Zagueiro",
+          "idade": 24,
+          "nacionalidade": "Brasileiro",
+          "foto": "https://www.cruzeiro.com.br/media/fotos_jogadores/28/03/2024/JO%C3%83O_MARCELO_-_zagueiro_site.png"
+      },
+      {
+          "nome": "Zé Ivaldo",
+          "posicao": "Zagueiro",
+          "idade": 27,
+          "nacionalidade": "Brasileiro",
+          "foto": "https://www.cruzeiro.com.br/media/fotos_jogadores/28/03/2024/Z%C3%89_IVALDO_-_zagueiro_site.png"
+      },
+      {
+          "nome": "Lucas Villalba",
+          "posicao": "Zagueiro",
+          "idade": 29,
+          "nacionalidade": "Argentino",
+          "foto": "https://www.cruzeiro.com.br/media/fotos_jogadores/28/03/2024/LUCAS_VILLALBA_-_zagueiro_site.png"
+      },
+      {
+          "nome": "Jonathan Jesus",
+          "posicao": "Zagueiro",
+          "idade": 20,
+          "nacionalidade": "Brasileiro",
+          "foto": "https://i.pinimg.com/474x/00/2d/02/002d025d99744b3b954cb205768dc0cc.jpg"
+      },
+      {
+          "nome": "Marlon",
+          "posicao": "Lateral Esquerdo",
+          "idade": 27,
+          "nacionalidade": "Brasileiro",
+          "foto": "https://www.cruzeiro.com.br/media/fotos_jogadores/28/03/2024/MARLON_-_lateral_esquerdo_site.png"
+      },
+      {
+          "nome": "Kaiki",
+          "posicao": "Lateral Esquerdo",
+          "idade": 21,
+          "nacionalidade": "Brasileiro",
+          "foto": "https://www.cruzeiro.com.br/media/fotos_jogadores/28/03/2024/KAIKI_-_lateral_esquerdo_site.png"
+      },
+      {
+          "nome": "William",
+          "posicao": "Lateral Direito",
+          "idade": 29,
+          "nacionalidade": "Brasileiro",
+          "foto": "https://www.cruzeiro.com.br/media/fotos_jogadores/28/03/2024/WILLIAM_-_lateral_direito_site.png"
+      },
+      {
+          "nome": "Helibelton Palacios",
+          "posicao": "Lateral Direito",
+          "idade": 31,
+          "nacionalidade": "Colombiano",
+          "foto": "https://www.cruzeiro.com.br/media/fotos_jogadores/28/03/2024/HELIBELTON_PALACIOS_-_lateral_direito_site.png"
+      },
+      {
+          "nome": "Lucas Romero",
+          "posicao": "Volante",
+          "idade": 30,
+          "nacionalidade": "Argentino",
+          "foto": "https://www.cruzeiro.com.br/media/fotos_jogadores/28/03/2024/LUCAS_ROMERO_-_meio-campista_site.png"
+      },
+      {
+          "nome": "Walace",
+          "posicao": "Volante",
+          "idade": 29,
+          "nacionalidade": "Brasileiro",
+          "foto": "https://i.pinimg.com/474x/5e/20/83/5e20833de3ea55b9628f0b269f6dcc2b.jpg"
+      },
+      {
+          "nome": "Lucas Silva",
+          "posicao": "Volante",
+          "idade": 31,
+          "nacionalidade": "Brasileiro",
+          "foto": "https://www.cruzeiro.com.br/media/fotos_jogadores/28/03/2024/LUCAS_SILVA_-_meio-campista_site.png"
+      },
+      {
+          "nome": "Fabrizio Peralta",
+          "posicao": "Volante",
+          "idade": 21,
+          "nacionalidade": "Paraguaio",
+          "foto": "/images/peralta.jpg"
+      },
+      {
+          "nome": "Matheus Henrique",
+          "posicao": "Meia Central",
+          "idade": 26,
+          "nacionalidade": "Brasileiro",
+          "foto": "https://i.pinimg.com/474x/a5/ae/1f/a5ae1f40ee495bdb2aaed9e717ff8e23.jpg"
+      },
+      {
+          "nome": "Matheus Pereira",
+          "posicao": "Meia Atacante",
+          "idade": 28,
+          "nacionalidade": "Brasileiro",
+          "foto": "https://www.cruzeiro.com.br/media/fotos_jogadores/28/03/2024/MATHEUS_PEREIRA_-_meio-campista_site.png"
+      },
+      {
+          "nome": "Álvaro Barreal",
+          "posicao": "Meia Atacante",
+          "idade": 23,
+          "nacionalidade": "Argentino",
+          "foto": "https://www.cruzeiro.com.br/media/fotos_jogadores/28/03/2024/%C3%81LVARO_BARREAL_-_atacante_site.png"
+      },
+      {
+          "nome": "Arthur Gomes",
+          "posicao": "Ponta Esquerda",
+          "idade": 26,
+          "nacionalidade": "Brasileiro",
+          "foto": "https://www.cruzeiro.com.br/media/fotos_jogadores/28/03/2024/ARTHUR_GOMES_-_atacante_site.png"
+      },
+      {
+          "nome": "Lautaro Díaz",
+          "posicao": "Ponta Direita",
+          "idade": 26,
+          "nacionalidade": "Argentino",
+          "foto": "/images/lautaro.jpg"
+      },
+      {
+          "nome": "Kaio Jorge",
+          "posicao": "Centroavante",
+          "idade": 22,
+          "nacionalidade": "Brasileiro",
+          "foto": "/images/kaio.jpg"
+      },
+      {
+          "nome": "Juan Dinenno",
+          "posicao": "Centroavante",
+          "idade": 29,
+          "nacionalidade": "Argentino",
+          "foto": "https://www.cruzeiro.com.br/media/fotos_jogadores/28/03/2024/JUAN_DINENNO_-_atacante_site.png"
+      },
+      {
+          "nome": "Fernando Seabra",
+          "posicao": "Técnico",
+          "idade": 47,
+          "nacionalidade": "Brasileiro",
+          "foto": "https://www.cruzeiro.com.br/media/fotos_jogadores/11/04/2024/FERNANDO_SEABRA_-_t%C3%A9cnico_site.png"
+      }
+  ],
+  "titulos": {
+      "Campeonato_Brasileiro": [1966, 2003, 2013, 2014],
+      "Copa_do Brasil": [1993, 1996, 2000, 2003, 2017, 2018],
+      "Libertadores": [1976, 1997],
+      "Supercopa_Libertadores": [1991, 1992]
+  },
+  "musicas": {
+      "Hino do Cruzeiro": "Existe um grande clube na cidade\nQue mora dentro do meu coração\nEu vivo cheio de vaidade\nPois na realidade é um grande campeão\nNos gramados de Minas Gerais\nTemos páginas heroicas e imortais\nCruzeiro, Cruzeiro querido\nTão combatido, jamais vencido!\nExiste um grande clube na cidade\nQue mora dentro do meu coração\nEu vivo cheio de vaidade\nPois na realidade é um grande campeão\nNos gramados de Minas Gerais\nTemos páginas heroicas e imortais\nCruzeiro, Cruzeiro querido\nTão combatido, jamais vencido!\nExiste um grande clube na cidade\nQue mora dentro do meu coração\nEu vivo cheio de vaidade\nPois na realidade é um grande campeão\nNos gramados de Minas Gerais\nTemos páginas heroicas e imortais\nCruzeiro, Cruzeiro querido\nTão combatido, jamais vencido!",
+      "Salome Pablito": "Nunca te abandonei\nNunca vou te abandonar\nSerei sempre Cruzeiro\nE onde você for eu vou estar\nDisseram que eu ia morrer\nTorceram para eu acabar\nMas se esqueceram\nEu sou acostumado a guerrear\nHoje\nÉ o dia da glória\nDe fazer história\nDe ver quem sorriu, sofrer\nVoltei\nNos braços do meu povo\nMais forte e cabuloso\nPra ser campeão de novo\nE eu sou\nCruzeiro, Cruzeiro querido\nSalomé e Pablito\nNo céu também vai cantar\nHoje\nÉ o dia da glória\nDe fazer história\nDe ver quem sorriu, sofrer\nHoje\nÉ o dia da glória\nDe fazer história\nDe ver quem sorriu, sofrer\nVoltei!",
+      "Dizem Que Somos Loucos": "Dizem que somos loucos da cabeça\nAmamos o Cruzeiro, é o que interessa\nO mundo inteiro teme La Bestia Negra\nSeremos campeões e não se esqueça:\nNós somos loucos, somos Cruzeiro\nNós somos loucos, somos Cruzeiro"
+  }
+}
